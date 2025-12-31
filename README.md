@@ -25,6 +25,12 @@ Most of my work revolves around ultrasound imaging, training pipelines, and effi
 - NumPy • SciPy • scikit-learn  
 - Albumentations • Plotly
 
+**Data Engineering & Observability**
+- Apache Airflow for orchestrating reproducible ML and data pipelines
+- OpenTelemetry (OTel) for structured logs, metrics, and traces across runs
+- Grafana for monitoring pipelines, experiments, and system behavior
+- Loki for centralized, queryable log storage
+
 **Models & Methods I use**
 - Real-time segmentation and classification models (MobileNet-based encoders)
 - UNet and lightweight UNet variants  
@@ -33,10 +39,9 @@ Most of my work revolves around ultrasound imaging, training pipelines, and effi
 - Learning dense, spatial feature representations from images
 
 **Infrastructure & Tools**
-- Docker • Kubernetes • Google Cloud  
+- Docker • Kubernetes • Google Cloud • PostgreSQL • Helm
 - Linux • shell scripting  
 - Git • MLflow/W&B-style tracking  
-- PostgreSQL • Raspberry Pi
 
 ## 📈 GitHub Stats
 
